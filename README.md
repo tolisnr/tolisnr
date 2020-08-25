@@ -1,6 +1,6 @@
 ### Hi there, I'm Tolis 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tolisnr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftolisnr&screen_name=tolisnr)
 
 ## I'm a Front-End Developer!
 
@@ -24,6 +24,6 @@
 
 ---
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/tolisnr
+[instagram]: https://instagram.com/tolis_snr
 [email]: mailto:siniorisap@outlook.com
