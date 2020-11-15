@@ -1,6 +1,5 @@
 ### Hi there, I'm Tolis 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tolisnr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftolisnr&screen_name=tolisnr)
 
 ## I'm a Front-End Developer!
 
@@ -9,21 +8,4 @@
 - ✉  You can ask me whatever you want!
 
 
-### Connect with me:
-
-[<img align="left" alt="Tolis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Tolis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
-
-### Languages and Tools:
-
-
-<br />
-<br />
-
----
-
-[twitter]: https://twitter.com/tolisnr
-[instagram]: https://instagram.com/tolis_snr
-[email]: mailto:siniorisap@outlook.com
