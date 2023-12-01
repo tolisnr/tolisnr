@@ -1,9 +1,9 @@
 ### Hi there, I'm Tolis 👋
 
 
-## I'm a Front-End Developer!
+## I'm a Computer Science Student!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything about programming!
 - ✉  You can ask me whatever you want!
 
 
